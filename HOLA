@@ -1,0 +1,18 @@
+Hola quiero presentarme mi nombre es mellisa ...
+Bueno gracias a un youtuber en especial me anime a hacer eso
+voy a dar ejemplos sobre varios comandos para que lo usen claro que usaremos JavaScript
+
+
+Bueno les aconsejo seguir mis pasos :)
+
+1. Crearemos un archivo y le llamaremos index.js...   con eso ya tendriamos una parte del command handler para los que se queden y/o lean esto les dejare un comando snipe :) 
+
+2. Crearemos un archivo llamado config.json en este pondremos token / prefix del bot :)
+me esperan un momento voy a copiar el token de mi bot
+
+3. Bueno como tercer paso crearemos una carpeta y le llamaremos handlers y en esta carpeta crearemos un 
+archivo y le pondremos de nombre command.js
+haora siguen mis pasos :)
+
+4.suponiendo de que todo este bien crearemos una carpeta y le llamaremos commands y en este pondremos otra carpeta para
+tener mas organizado nuestro bot por ejemplo probemos con el comando say
